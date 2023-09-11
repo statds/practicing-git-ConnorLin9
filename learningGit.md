@@ -1,2 +1,2 @@
 Adding new lines
-Tiping this wrong and fyxing it
+Typing this wrong and fixing it
